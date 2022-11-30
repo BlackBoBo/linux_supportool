@@ -15,5 +15,5 @@
 
 
 
-#### pythonversioncheck.py
+#### AutoMaticFolderEntry.py
 서버 접속 후 폴더까지 이동

@@ -12,3 +12,8 @@
 
 #### pythonversioncheck.py
 파이썬 패키지 최신버전 체크
+
+
+
+#### pythonversioncheck.py
+서버 접속 후 폴더까지 이동
